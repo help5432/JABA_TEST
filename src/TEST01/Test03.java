@@ -8,7 +8,7 @@ public class Test03 {
 		//해당 인스턴스를 통해 메서드를 호출해야 합니다.
 		Car C01 = new Car();
 		
-		int result = C01.b(); // 리턴의 결과가 이쪽으로온다 
+		int result = C01.b(); 
 		System.out.println(result);	
 	}
 }
